@@ -1,8 +1,8 @@
 # traffic-signal-control-app
-CST Machine Consciousness Traffic Signal Control Application 
 
-License
---------
+CST Machine Consciousness Traffic Signal Control Application designed and implemented in the [PhD Thesis - A machine consciousness approach to urban traffic signal control](https://www.researchgate.net/publication/304076563_A_machine_consciousness_approach_to_urban_traffic_signal_control?channel=doi&linkId=57657a4d08ae421c4489d260&showFulltext=true)
+
+## License
 
     Copyright 2016 CST-Group
 
